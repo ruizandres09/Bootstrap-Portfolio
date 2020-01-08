@@ -1,0 +1,49 @@
+body{
+    background-image: url(../assets/images/email-pattern.png);
+    margin: 0;
+}
+
+.name{
+    margin-left: 0;
+    background-color:#4aaaa5;
+    margin:0;
+    padding: 8px;
+    
+}
+
+nav{
+    background-color: #ffffff;
+    border-bottom: gray solid;
+}
+
+.pics{
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    margin: 10px auto;
+}
+
+.headshot{
+    width: 200px;
+    padding: 10px;
+}
+.mainblock{
+    background-color: #ffffff;
+}
+footer{background-color: #666666;
+color:#ffffff;
+}
+.descript{
+    background-color:#4aaaa5;
+    position: absolute;
+    bottom: 20px;
+    width: 300px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 18px;
+    margin:0;
+}
+
+.containerbox{
+    background-color:#ffffff;
+}
